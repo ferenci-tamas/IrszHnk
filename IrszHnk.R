@@ -46,3 +46,4 @@ IrszHnk <- IrszHnk[!duplicated(IrszHnk), ]
 data.table::fwrite(IrszHnk, "IrszHnk.csv", row.names = FALSE,
                    dec = ",", sep =";", bom = TRUE)
 saveRDS(IrszHnk, "IrszHnk.rds")
+write(jsonlite::toJSON(IrszHnk), "IrszHnk.json")

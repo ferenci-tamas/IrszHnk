@@ -18,7 +18,8 @@ A [szkript](https://github.com/ferenci-tamas/IrszHnk/blob/master/IrszHnk.R)
 elvégzi a fenti állományok letöltését, végrehajtja a szükséges
 adattranszformációkat és a hozzárendelést, majd az eredményt
 [CSV](https://github.com/ferenci-tamas/IrszHnk/blob/master/IrszHnk.csv)
-és [RDS](https://github.com/ferenci-tamas/IrszHnk/blob/master/IrszHnk.rds)
+és [RDS](https://github.com/ferenci-tamas/IrszHnk/blob/master/IrszHnk.rds),
+valamint [JSON](https://github.com/ferenci-tamas/IrszHnk/blob/master/IrszHnk.json)
 formátumokban kimenti. A
 szkript [R nyelven](https://www.youtube.com/@FerenciTamas/playlists?view=50&sort=dd&shelf_id=2) készült.
 
@@ -51,7 +52,8 @@ The [script](https://github.com/ferenci-tamas/IrszHnk/blob/master/IrszHnk.R)
 downloads the abovementioned data, performs the necessary
 data transformations and merging, and then saves the result in
 [CSV](https://github.com/ferenci-tamas/IrszHnk/blob/master/IrszHnk.csv)
-and [RDS](https://github.com/ferenci-tamas/IrszHnk/blob/master/IrszHnk.rds) formats.
+and [RDS](https://github.com/ferenci-tamas/IrszHnk/blob/master/IrszHnk.rds),
+and [JSON](https://github.com/ferenci-tamas/IrszHnk/blob/master/IrszHnk.json) formats.
 The script uses [R language](https://www.youtube.com/@FerenciTamas/playlists?view=50&sort=dd&shelf_id=2).
 
 The repository contains the results as of 29-Aug-2025. It also
