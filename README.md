@@ -22,7 +22,7 @@ adattranszformációkat és a hozzárendelést, majd az eredményt
 formátumokban kimenti. A
 szkript [R nyelven](https://www.youtube.com/@FerenciTamas/playlists?view=50&sort=dd&shelf_id=2) készült.
 
-A repozitórium a 2024. 11. 29. dátum szerinti állapotot tartalmazza.
+A repozitórium a 2025. 08. 29. dátum szerinti állapotot tartalmazza.
 A bemeneti állományok archív változatait
 szintén [elérhetővé teszi](https://github.com/ferenci-tamas/IrszHnk/blob/master/archiv.zip).
 
@@ -54,7 +54,7 @@ data transformations and merging, and then saves the result in
 and [RDS](https://github.com/ferenci-tamas/IrszHnk/blob/master/IrszHnk.rds) formats.
 The script uses [R language](https://www.youtube.com/@FerenciTamas/playlists?view=50&sort=dd&shelf_id=2).
 
-The repository contains the results as of 29-Nov-2024. It also
+The repository contains the results as of 29-Aug-2025. It also
 makes the archive versions of the input
 data [available](https://github.com/ferenci-tamas/IrszHnk/blob/master/archiv.zip).
 

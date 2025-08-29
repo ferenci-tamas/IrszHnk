@@ -46,6 +46,7 @@ Algyő;6750;;34245;nagyközség;Csongrád-Csanád;075 0;Szegedi;Szeged;1;–;757
 Alibánfa;8921;;02644;község;Zala;197 0;Zalaegerszegi;Zalaegerszeg;5;Pókaszepetk;584;436;171;;;;;;;;;;;;;;
 Almamellék;7934;;13329;község;Baranya;033 0;Szigetvári;Szigetvár;5;Szentlászló;4433;399;170;;;;;;1;;;;;;;;
 Almásfüzitő;2931;;32346;község;Komárom-Esztergom;112 0;Komáromi;Komárom;1;–;818;2104;1119;;;;;;;;;;;;;;
+Almásfüzitő;2932;Nagykolónia;32346;község;Komárom-Esztergom;112 0;Komáromi;Komárom;1;–;818;2104;1119;;;;;;;;;;;;;;
 Almásháza;8935;;23384;község;Zala;197 0;Zalaegerszegi;Zalaegerszeg;5;Nagykapornak;498;78;40;;;;;;;;;;;;;;
 Almáskamarás;5747;;29595;község;Békés;049 0;Mezőkovácsházai;Mezőkovácsháza;5;Kunágota;1471;668;422;;;;;;1;;;;;;;;
 Almáskeresztúr;7932;;20376;község;Baranya;033 0;Szigetvári;Szigetvár;5;Mozsgó;1303;86;51;;;;;;;;;;;;;;
@@ -497,12 +498,12 @@ Budapest 11. ker.;1118;;14216;fővárosi kerület;főváros;011 1;Budapest 11. k
 Budapest 11. ker.;1116;;14216;fővárosi kerület;főváros;011 1;Budapest 11. ker.;Budapest 11. ker.;1;–;3348;149126;85018;;1;1;1;1;1;1;1;1;1;1;1;1;1
 Budapest 11. ker.;1115;;14216;fővárosi kerület;főváros;011 1;Budapest 11. ker.;Budapest 11. ker.;1;–;3348;149126;85018;;1;1;1;1;1;1;1;1;1;1;1;1;1
 Budapest 11. ker.;1113;;14216;fővárosi kerület;főváros;011 1;Budapest 11. ker.;Budapest 11. ker.;1;–;3348;149126;85018;;1;1;1;1;1;1;1;1;1;1;1;1;1
-Budapest 12. ker.;1126;;24697;fővárosi kerület;főváros;012 1;Budapest 12. ker.;Budapest 12. ker.;1;–;2666;55650;36025;;1;1;1;1;1;1;1;;;1;1;;1
+Budapest 12. ker.;1122;;24697;fővárosi kerület;főváros;012 1;Budapest 12. ker.;Budapest 12. ker.;1;–;2666;55650;36025;;1;1;1;1;1;1;1;;;1;1;;1
 Budapest 12. ker.;1124;;24697;fővárosi kerület;főváros;012 1;Budapest 12. ker.;Budapest 12. ker.;1;–;2666;55650;36025;;1;1;1;1;1;1;1;;;1;1;;1
 Budapest 12. ker.;1121;;24697;fővárosi kerület;főváros;012 1;Budapest 12. ker.;Budapest 12. ker.;1;–;2666;55650;36025;;1;1;1;1;1;1;1;;;1;1;;1
-Budapest 12. ker.;1123;;24697;fővárosi kerület;főváros;012 1;Budapest 12. ker.;Budapest 12. ker.;1;–;2666;55650;36025;;1;1;1;1;1;1;1;;;1;1;;1
-Budapest 12. ker.;1122;;24697;fővárosi kerület;főváros;012 1;Budapest 12. ker.;Budapest 12. ker.;1;–;2666;55650;36025;;1;1;1;1;1;1;1;;;1;1;;1
+Budapest 12. ker.;1126;;24697;fővárosi kerület;főváros;012 1;Budapest 12. ker.;Budapest 12. ker.;1;–;2666;55650;36025;;1;1;1;1;1;1;1;;;1;1;;1
 Budapest 12. ker.;1125;;24697;fővárosi kerület;főváros;012 1;Budapest 12. ker.;Budapest 12. ker.;1;–;2666;55650;36025;;1;1;1;1;1;1;1;;;1;1;;1
+Budapest 12. ker.;1123;;24697;fővárosi kerület;főváros;012 1;Budapest 12. ker.;Budapest 12. ker.;1;–;2666;55650;36025;;1;1;1;1;1;1;1;;;1;1;;1
 Budapest 13. ker.;1131;;24299;fővárosi kerület;főváros;013 1;Budapest 13. ker.;Budapest 13. ker.;1;–;1344;120573;84621;;1;1;1;1;1;1;1;1;1;1;1;;
 Budapest 13. ker.;1139;;24299;fővárosi kerület;főváros;013 1;Budapest 13. ker.;Budapest 13. ker.;1;–;1344;120573;84621;;1;1;1;1;1;1;1;1;1;1;1;;
 Budapest 13. ker.;1133;;24299;fővárosi kerület;főváros;013 1;Budapest 13. ker.;Budapest 13. ker.;1;–;1344;120573;84621;;1;1;1;1;1;1;1;1;1;1;1;;
@@ -513,14 +514,14 @@ Budapest 13. ker.;1136;;24299;fővárosi kerület;főváros;013 1;Budapest 13. k
 Budapest 13. ker.;1135;;24299;fővárosi kerület;főváros;013 1;Budapest 13. ker.;Budapest 13. ker.;1;–;1344;120573;84621;;1;1;1;1;1;1;1;1;1;1;1;;
 Budapest 13. ker.;1137;;24299;fővárosi kerület;főváros;013 1;Budapest 13. ker.;Budapest 13. ker.;1;–;1344;120573;84621;;1;1;1;1;1;1;1;1;1;1;1;;
 Budapest 13. ker.;1138;;24299;fővárosi kerület;főváros;013 1;Budapest 13. ker.;Budapest 13. ker.;1;–;1344;120573;84621;;1;1;1;1;1;1;1;1;1;1;1;;
+Budapest 14. ker.;1142;;16337;fővárosi kerület;főváros;014 1;Budapest 14. ker.;Budapest 14. ker.;1;–;1812;118759;75176;;1;1;1;1;1;1;1;1;1;1;1;;1
 Budapest 14. ker.;1147;;16337;fővárosi kerület;főváros;014 1;Budapest 14. ker.;Budapest 14. ker.;1;–;1812;118759;75176;;1;1;1;1;1;1;1;1;1;1;1;;1
-Budapest 14. ker.;1148;;16337;fővárosi kerület;főváros;014 1;Budapest 14. ker.;Budapest 14. ker.;1;–;1812;118759;75176;;1;1;1;1;1;1;1;1;1;1;1;;1
 Budapest 14. ker.;1145;;16337;fővárosi kerület;főváros;014 1;Budapest 14. ker.;Budapest 14. ker.;1;–;1812;118759;75176;;1;1;1;1;1;1;1;1;1;1;1;;1
 Budapest 14. ker.;1141;;16337;fővárosi kerület;főváros;014 1;Budapest 14. ker.;Budapest 14. ker.;1;–;1812;118759;75176;;1;1;1;1;1;1;1;1;1;1;1;;1
-Budapest 14. ker.;1149;;16337;fővárosi kerület;főváros;014 1;Budapest 14. ker.;Budapest 14. ker.;1;–;1812;118759;75176;;1;1;1;1;1;1;1;1;1;1;1;;1
+Budapest 14. ker.;1148;;16337;fővárosi kerület;főváros;014 1;Budapest 14. ker.;Budapest 14. ker.;1;–;1812;118759;75176;;1;1;1;1;1;1;1;1;1;1;1;;1
 Budapest 14. ker.;1146;;16337;fővárosi kerület;főváros;014 1;Budapest 14. ker.;Budapest 14. ker.;1;–;1812;118759;75176;;1;1;1;1;1;1;1;1;1;1;1;;1
-Budapest 14. ker.;1142;;16337;fővárosi kerület;főváros;014 1;Budapest 14. ker.;Budapest 14. ker.;1;–;1812;118759;75176;;1;1;1;1;1;1;1;1;1;1;1;;1
 Budapest 14. ker.;1143;;16337;fővárosi kerület;főváros;014 1;Budapest 14. ker.;Budapest 14. ker.;1;–;1812;118759;75176;;1;1;1;1;1;1;1;1;1;1;1;;1
+Budapest 14. ker.;1149;;16337;fővárosi kerület;főváros;014 1;Budapest 14. ker.;Budapest 14. ker.;1;–;1812;118759;75176;;1;1;1;1;1;1;1;1;1;1;1;;1
 Budapest 14. ker.;1144;;16337;fővárosi kerület;főváros;014 1;Budapest 14. ker.;Budapest 14. ker.;1;–;1812;118759;75176;;1;1;1;1;1;1;1;1;1;1;1;;1
 Budapest 15. ker.;1157;;11314;fővárosi kerület;főváros;015 1;Budapest 15. ker.;Budapest 15. ker.;1;–;2694;75236;38588;;1;1;1;;1;1;1;;;1;1;;
 Budapest 15. ker.;1151;;11314;fővárosi kerület;főváros;015 1;Budapest 15. ker.;Budapest 15. ker.;1;–;2694;75236;38588;;1;1;1;;1;1;1;;;1;1;;
@@ -530,10 +531,10 @@ Budapest 15. ker.;1152;;11314;fővárosi kerület;főváros;015 1;Budapest 15. k
 Budapest 15. ker.;1156;;11314;fővárosi kerület;főváros;015 1;Budapest 15. ker.;Budapest 15. ker.;1;–;2694;75236;38588;;1;1;1;;1;1;1;;;1;1;;
 Budapest 15. ker.;1158;;11314;fővárosi kerület;főváros;015 1;Budapest 15. ker.;Budapest 15. ker.;1;–;2694;75236;38588;;1;1;1;;1;1;1;;;1;1;;
 Budapest 15. ker.;1155;;11314;fővárosi kerület;főváros;015 1;Budapest 15. ker.;Budapest 15. ker.;1;–;2694;75236;38588;;1;1;1;;1;1;1;;;1;1;;
-Budapest 16. ker.;1165;;08208;fővárosi kerület;főváros;016 1;Budapest 16. ker.;Budapest 16. ker.;1;–;3351;72411;33336;;;1;1;;1;1;1;1;1;;1;;
 Budapest 16. ker.;1162;;08208;fővárosi kerület;főváros;016 1;Budapest 16. ker.;Budapest 16. ker.;1;–;3351;72411;33336;;;1;1;;1;1;1;1;1;;1;;
-Budapest 16. ker.;1161;;08208;fővárosi kerület;főváros;016 1;Budapest 16. ker.;Budapest 16. ker.;1;–;3351;72411;33336;;;1;1;;1;1;1;1;1;;1;;
+Budapest 16. ker.;1165;;08208;fővárosi kerület;főváros;016 1;Budapest 16. ker.;Budapest 16. ker.;1;–;3351;72411;33336;;;1;1;;1;1;1;1;1;;1;;
 Budapest 16. ker.;1164;;08208;fővárosi kerület;főváros;016 1;Budapest 16. ker.;Budapest 16. ker.;1;–;3351;72411;33336;;;1;1;;1;1;1;1;1;;1;;
+Budapest 16. ker.;1161;;08208;fővárosi kerület;főváros;016 1;Budapest 16. ker.;Budapest 16. ker.;1;–;3351;72411;33336;;;1;1;;1;1;1;1;1;;1;;
 Budapest 16. ker.;1163;;08208;fővárosi kerület;főváros;016 1;Budapest 16. ker.;Budapest 16. ker.;1;–;3351;72411;33336;;;1;1;;1;1;1;1;1;;1;;
 Budapest 17. ker.;1174;;02112;fővárosi kerület;főváros;017 1;Budapest 17. ker.;Budapest 17. ker.;1;–;5482;84428;34577;;1;1;1;1;1;1;1;;1;;1;;
 Budapest 17. ker.;1173;;02112;fővárosi kerület;főváros;017 1;Budapest 17. ker.;Budapest 17. ker.;1;–;5482;84428;34577;;1;1;1;1;1;1;1;;1;;1;;
@@ -553,8 +554,8 @@ Budapest 19. ker.;1193;;04011;fővárosi kerület;főváros;019 1;Budapest 19. k
 Budapest 19. ker.;1194;;04011;fővárosi kerület;főváros;019 1;Budapest 19. ker.;Budapest 19. ker.;1;–;938;57895;29205;;1;1;1;1;1;1;1;1;;1;;;1
 Budapest 19. ker.;1195;;04011;fővárosi kerület;főváros;019 1;Budapest 19. ker.;Budapest 19. ker.;1;–;938;57895;29205;;1;1;1;1;1;1;1;1;;1;;;1
 Budapest 20. ker.;1205;;06026;fővárosi kerület;főváros;020 1;Budapest 20. ker.;Budapest 20. ker.;1;–;1219;61508;32591;;1;;;;1;1;1;;;;1;;1
-Budapest 20. ker.;1201;;06026;fővárosi kerület;főváros;020 1;Budapest 20. ker.;Budapest 20. ker.;1;–;1219;61508;32591;;1;;;;1;1;1;;;;1;;1
 Budapest 20. ker.;1202;;06026;fővárosi kerület;főváros;020 1;Budapest 20. ker.;Budapest 20. ker.;1;–;1219;61508;32591;;1;;;;1;1;1;;;;1;;1
+Budapest 20. ker.;1201;;06026;fővárosi kerület;főváros;020 1;Budapest 20. ker.;Budapest 20. ker.;1;–;1219;61508;32591;;1;;;;1;1;1;;;;1;;1
 Budapest 20. ker.;1204;;06026;fővárosi kerület;főváros;020 1;Budapest 20. ker.;Budapest 20. ker.;1;–;1219;61508;32591;;1;;;;1;1;1;;;;1;;1
 Budapest 20. ker.;1203;;06026;fővárosi kerület;főváros;020 1;Budapest 20. ker.;Budapest 20. ker.;1;–;1219;61508;32591;;1;;;;1;1;1;;;;1;;1
 Budapest 21. ker.;1213;;13189;fővárosi kerület;főváros;021 1;Budapest 21. ker.;Budapest 21. ker.;1;–;2575;70084;33885;;1;1;1;1;1;1;1;1;;1;;;1
@@ -567,9 +568,9 @@ Budapest 22. ker.;1225;;10214;fővárosi kerület;főváros;022 1;Budapest 22. k
 Budapest 22. ker.;1223;;10214;fővárosi kerület;főváros;022 1;Budapest 22. ker.;Budapest 22. ker.;1;–;3425;56499;24836;;1;1;1;1;1;1;1;;;;;;1
 Budapest 22. ker.;1221;;10214;fővárosi kerület;főváros;022 1;Budapest 22. ker.;Budapest 22. ker.;1;–;3425;56499;24836;;1;1;1;1;1;1;1;;;;;;1
 Budapest 22. ker.;1224;;10214;fővárosi kerület;főváros;022 1;Budapest 22. ker.;Budapest 22. ker.;1;–;3425;56499;24836;;1;1;1;1;1;1;1;;;;;;1
-Budapest 23. ker.;1239;;34139;fővárosi kerület;főváros;023 1;Budapest 23. ker.;Budapest 23. ker.;1;–;4077;22297;9242;;1;;;;1;;1;;;;;;
-Budapest 23. ker.;1237;;34139;fővárosi kerület;főváros;023 1;Budapest 23. ker.;Budapest 23. ker.;1;–;4077;22297;9242;;1;;;;1;;1;;;;;;
 Budapest 23. ker.;1238;;34139;fővárosi kerület;főváros;023 1;Budapest 23. ker.;Budapest 23. ker.;1;–;4077;22297;9242;;1;;;;1;;1;;;;;;
+Budapest 23. ker.;1237;;34139;fővárosi kerület;főváros;023 1;Budapest 23. ker.;Budapest 23. ker.;1;–;4077;22297;9242;;1;;;;1;;1;;;;;;
+Budapest 23. ker.;1239;;34139;fővárosi kerület;főváros;023 1;Budapest 23. ker.;Budapest 23. ker.;1;–;4077;22297;9242;;1;;;;1;;1;;;;;;
 Bugac;6114;;32823;nagyközség;Bács-Kiskun;040 0;Kiskunfélegyházi;Kiskunfélegyháza;2;[Helyben];13111;2596;1418;;;;;;;;;;;;;;
 Bugacpusztaháza;6114;;33631;község;Bács-Kiskun;040 0;Kiskunfélegyházi;Kiskunfélegyháza;5;Bugac;4300;249;129;;;;;;;;;;;;;;
 Bugyi;2347;;32027;nagyközség;Pest;125 0;Dabasi;Dabas;1;–;11537;5241;2223;;;;;;;;;;;;;;
@@ -1139,18 +1140,18 @@ Gyöngyöspata;3035;;08323;város;Heves;106 0;Gyöngyösi;Gyöngyös;1;–;6075;
 Gyöngyössolymos;3231;;19123;község;Heves;106 0;Gyöngyösi;Gyöngyös;2;[Helyben];6485;2757;1250;;;;;;;;;;;;;;
 Gyöngyöstarján;3036;;28088;község;Heves;106 0;Gyöngyösi;Gyöngyös;2;[Helyben];4639;2163;977;;;;;;;;;;;;;;
 Gyönk;7064;;30289;város;Tolna;174 0;Tamási;Tamási;2;[Helyben];3812;1628;678;;;;;;1;;1;;;;;;
+Győr;9027;;25584;megyeszékhely, megyei jogú város;Győr-Moson-Sopron;087 1;Győri;Győr;1;–;17462;130191;64363;;;;1;1;1;1;1;;;;;;
 Győr;9023;;25584;megyeszékhely, megyei jogú város;Győr-Moson-Sopron;087 1;Győri;Győr;1;–;17462;130191;64363;;;;1;1;1;1;1;;;;;;
-Győr;9022;;25584;megyeszékhely, megyei jogú város;Győr-Moson-Sopron;087 1;Győri;Győr;1;–;17462;130191;64363;;;;1;1;1;1;1;;;;;;
 Győr;9012;;25584;megyeszékhely, megyei jogú város;Győr-Moson-Sopron;087 1;Győri;Győr;1;–;17462;130191;64363;;;;1;1;1;1;1;;;;;;
 Győr;9025;;25584;megyeszékhely, megyei jogú város;Győr-Moson-Sopron;087 1;Győri;Győr;1;–;17462;130191;64363;;;;1;1;1;1;1;;;;;;
 Győr;9026;;25584;megyeszékhely, megyei jogú város;Győr-Moson-Sopron;087 1;Győri;Győr;1;–;17462;130191;64363;;;;1;1;1;1;1;;;;;;
 Győr;9011;;25584;megyeszékhely, megyei jogú város;Győr-Moson-Sopron;087 1;Győri;Győr;1;–;17462;130191;64363;;;;1;1;1;1;1;;;;;;
+Győr;9028;;25584;megyeszékhely, megyei jogú város;Győr-Moson-Sopron;087 1;Győri;Győr;1;–;17462;130191;64363;;;;1;1;1;1;1;;;;;;
 Győr;9024;;25584;megyeszékhely, megyei jogú város;Győr-Moson-Sopron;087 1;Győri;Győr;1;–;17462;130191;64363;;;;1;1;1;1;1;;;;;;
-Győr;9027;;25584;megyeszékhely, megyei jogú város;Győr-Moson-Sopron;087 1;Győri;Győr;1;–;17462;130191;64363;;;;1;1;1;1;1;;;;;;
 Győr;9000;;25584;megyeszékhely, megyei jogú város;Győr-Moson-Sopron;087 1;Győri;Győr;1;–;17462;130191;64363;;;;1;1;1;1;1;;;;;;
 Győr;9030;;25584;megyeszékhely, megyei jogú város;Győr-Moson-Sopron;087 1;Győri;Győr;1;–;17462;130191;64363;;;;1;1;1;1;1;;;;;;
 Győr;9029;;25584;megyeszékhely, megyei jogú város;Győr-Moson-Sopron;087 1;Győri;Győr;1;–;17462;130191;64363;;;;1;1;1;1;1;;;;;;
-Győr;9028;;25584;megyeszékhely, megyei jogú város;Győr-Moson-Sopron;087 1;Győri;Győr;1;–;17462;130191;64363;;;;1;1;1;1;1;;;;;;
+Győr;9022;;25584;megyeszékhely, megyei jogú város;Győr-Moson-Sopron;087 1;Győri;Győr;1;–;17462;130191;64363;;;;1;1;1;1;1;;;;;;
 Győr;9021;;25584;megyeszékhely, megyei jogú város;Győr-Moson-Sopron;087 1;Győri;Győr;1;–;17462;130191;64363;;;;1;1;1;1;1;;;;;;
 Győr;9019;;25584;megyeszékhely, megyei jogú város;Győr-Moson-Sopron;087 1;Győri;Győr;1;–;17462;130191;64363;;;;1;1;1;1;1;;;;;;
 Győrasszonyfa;9093;;08721;község;Győr-Moson-Sopron;090 0;Pannonhalmi;Pannonhalma;5;Tápszentmiklós;648;504;208;;;;;;;;;;;;;;
