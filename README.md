@@ -12,7 +12,7 @@ a magyar irányítószámokat a településeikhez, együtt a települések
 adataival (a Helységnévtár alapján). Az adatok forrása az irányítószám
 esetén a Magyar Posta (<https://www.posta.hu/static/internet/download/Iranyitoszam-Internet_uj.xlsx>),
 a települési adatok esetén a Központi Statisztikai Hivatal
-(<https://www.ksh.hu/docs/helysegnevtar/hnt_letoltes_2024.xlsx>).
+(<https://www.ksh.hu/docs/helysegnevtar/hnt_letoltes_2025.xlsx>).
 
 A [szkript](https://github.com/ferenci-tamas/IrszHnk/blob/master/IrszHnk.R)
 elvégzi a fenti állományok letöltését, végrehajtja a szükséges
@@ -23,7 +23,7 @@ valamint [JSON](https://github.com/ferenci-tamas/IrszHnk/blob/master/IrszHnk.jso
 formátumokban kimenti. A
 szkript [R nyelven](https://www.youtube.com/@FerenciTamas/playlists?view=50&sort=dd&shelf_id=2) készült.
 
-A repozitórium a 2025. 08. 29. dátum szerinti állapotot tartalmazza.
+A repozitórium a 2026. 02. 09. dátum szerinti állapotot tartalmazza.
 A bemeneti állományok archív változatait
 szintén [elérhetővé teszi](https://github.com/ferenci-tamas/IrszHnk/blob/master/archiv.zip).
 
@@ -46,7 +46,7 @@ settlements (using the Detailed Gazetteer), based on official data
 sources. For the postal codes, the data source is the Magyar Posta
 Ltd., i.e. the Hungarian Post (<https://www.posta.hu/static/internet/download/Iranyitoszam-Internet_uj.xlsx>),
 for the data on settlements, the data source is the Hungarian
-Central Statistics Office (<https://www.ksh.hu/docs/helysegnevtar/hnt_letoltes_2024.xlsx>).
+Central Statistics Office (<https://www.ksh.hu/docs/helysegnevtar/hnt_letoltes_2025.xlsx>).
 
 The [script](https://github.com/ferenci-tamas/IrszHnk/blob/master/IrszHnk.R)
 downloads the abovementioned data, performs the necessary
@@ -56,7 +56,7 @@ and [RDS](https://github.com/ferenci-tamas/IrszHnk/blob/master/IrszHnk.rds),
 and [JSON](https://github.com/ferenci-tamas/IrszHnk/blob/master/IrszHnk.json) formats.
 The script uses [R language](https://www.youtube.com/@FerenciTamas/playlists?view=50&sort=dd&shelf_id=2).
 
-The repository contains the results as of 29-Aug-2025. It also
+The repository contains the results as of 09-Feb-2026. It also
 makes the archive versions of the input
 data [available](https://github.com/ferenci-tamas/IrszHnk/blob/master/archiv.zip).
 

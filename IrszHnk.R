@@ -1,7 +1,7 @@
 IrszUrl <- paste0("https://www.posta.hu/static/internet/",
                   "download/Iranyitoszam-Internet_uj.xlsx")
 HnkUrl <- paste0("https://www.ksh.hu/docs/helysegnevtar/",
-                 "hnt_letoltes_2024.xlsx")
+                 "hnt_letoltes_2025.xlsx")
 
 temp <- tempfile(fileext = paste0(".", tools::file_ext(IrszUrl)))
 download.file(IrszUrl, temp, mode = "wb")
